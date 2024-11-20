@@ -13,3 +13,18 @@ Avant d'exécuter le fichier Python, vous devez avoir **Python** et **pip** inst
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Étape 2 : Lancer le fichier Python
+
+Une fois les dépendances installées, vous pouvez exécuter le fichier Python qui contient l'exemple NumPy.
+
+Ouvrez un terminal dans le répertoire du projet.
+
+Exécutez le fichier Python (par exemple main.py) avec la commande suivante :
+
+```bash
+python example.py
+```
+
+Cela exécutera le code et vous verrez les résultats de l'exemple dans la console ou sous forme de graphique, selon le code contenu dans example.py.
